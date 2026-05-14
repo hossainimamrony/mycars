@@ -1,0 +1,79 @@
+{
+  "updated_at": "2026-05-13T16:32:23",
+  "count": 1,
+  "matches": [
+    {
+      "status": "identified",
+      "match_score": 100.0,
+      "match_reason": "stock_tail4_match:1058",
+      "mismatch_fields": [],
+      "mismatch_messages": [],
+      "mismatch_count": 0,
+      "carsales": {
+        "source_url": "https://www.carsales.com.au/cars/details/1998-mitsubishi-pajero-mini-x-h53a-auto/OAG-AD-25705796/",
+        "network_id": "OAG-AD-25705796",
+        "title": "1998 Mitsubishi Pajero Mini X H53A Auto",
+        "detail_page_title": "1998 Mitsubishi Pajero Mini X H53A Auto",
+        "year": "1998",
+        "make": "Mitsubishi",
+        "model": "Pajero Mini X H53A Auto",
+        "price_text": "$10,400",
+        "price": 10400,
+        "odometer_text": "61,157km",
+        "odometer_km": 61157,
+        "dealer_stock_id": "19981058",
+        "dealer_stock_ids": [
+          "19981058"
+        ],
+        "car_code": "1261",
+        "photo_count": 19,
+        "first_image_url": "https://carsales.pxcrush.net/carsales/car/dealer/u3tmxa6o0tgqf4919sme1s98.jpg?pxc_format=jpeg&pxc_size=1200%2C630",
+        "all_image_urls": [
+          "https://carsales.pxcrush.net/carsales/car/dealer/u3tmxa6o0tgqf4919sme1s98.jpg?pxc_format=jpeg&pxc_size=1200%2C630"
+        ],
+        "image_count": 1,
+        "vin": "6ZZW00H53A0000467",
+        "registration_plate": "Check with seller",
+        "body_type": "SUV",
+        "fuel": "Petrol",
+        "transmission": "Automatic",
+        "dealer_comments": "1998 MITSUBISHI Pajero Mini | Petrol | 61,157 KM A compact and fun Mitsubishi Pajero Mini built for city driving, weekend use, and anyone wanting a small SUV with classic Pajero character. With petrol power, low kilometres for its age, and practical everyday features, this Pajero Mini is a unique little 4WD-style vehicle with great personality. Key Features: Petrol engine Air Conditioning Rear Wiper Windshield Wiper Fog Lights Power Windows Recently serviced and professionally detailed 6 months NSW registration included Why This Pajero Mini Stands Out: Compact SUV with classic Pajero styling Low kilometres for its age Easy to drive and park Great option for daily use, weekend drives, or unique car enthusiasts Clean, serviced, detailed, and ready for inspection Pricing: We offer the most competitive prices in Australia Price match available on similar listings Website: Location: Unit D3, 128 , , NSW Contact for Inspection: WhatsApp: [https:///](https:///) Call: Open 7 days a week, from 8 am to 5 pm, including public holidays DOOR DELIVERY IS AVAILABLE TO ALL STATES Newcastle and Wollongong $200 | Canberra $300 | Melbourne $450 | Brisbane $550 | Adelaide $1200 | Tasmania $1400 | Perth $1600 #AU #MitsubishiPajeroMini #PajeroMini #CompactSUV #UsedCarsAustralia #PetrolCar Show more",
+        "status_label": "",
+        "status_tooltip": "",
+        "price_badge_label": "",
+        "is_sold": false,
+        "section_comments_from_dealer": true,
+        "section_car_details": true,
+        "section_overview": true,
+        "section_specifications": true,
+        "section_vehicle_history_report": true,
+        "section_about_this_dealer": true,
+        "error": ""
+      },
+      "carbarn": {
+        "title": "1998 Mitsubishi Pajero Mini",
+        "year": "1998",
+        "make": "MITSUBISHI",
+        "model": "Pajero",
+        "price_text": "10400",
+        "price": 10400,
+        "odometer_text": "61157",
+        "description": "1998 MITSUBISHI Pajero Mini | Petrol | 61,157 KM\n\nA compact and fun Mitsubishi Pajero Mini built for city driving, weekend use, and anyone wanting a small SUV with classic Pajero character. With petrol power, low kilo...",
+        "detail_url": "https://www.carbarn.com.au/vehicles/mitsubishi/pajero/h53a/1058",
+        "image_url": "https://www.storage.importautos.com.au/h1r-ukBtbwcd8JVxP5TySA/H53A-0000467/3Q7djCvdDO8zQsShMICvoA/ChatGPT Image Apr 9, 2026, 10_02_59 AM.png",
+        "stock_no": "1058",
+        "stock_candidates": [
+          "1058"
+        ],
+        "chassis": "H53A-0000467",
+        "warranty": {
+          "vehicle_year": "1998",
+          "vehicle_age": 28,
+          "rule_label": "Above 25 Years Vehicle",
+          "dealer_warranty": false,
+          "integrity_warranty": false
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "updated_at": "2026-05-14T13:17:45",
+  "urls_total": 55,
+  "urls_done": 55,
+  "last_processed_url": "https://www.carsales.com.au/cars/details/2022-toyota-corolla-touring-hybrid-g-x-plus-auto/OAG-AD-25833172/",
+  "recycle_every": 10,
+  "throttle_min_seconds": 6.0,
+  "throttle_max_seconds": 12.0
+}
