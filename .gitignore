@@ -5,3 +5,14 @@
 
 # If you use a specific environment file name, add it here:
 # .env.development
+
+# Python cache/build outputs
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+*.spec
+
+# Runtime logs
+find_my_cars_output/logs/
